@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo principal explorar um conjunto de dados de clientes de crédito para extrair insights estratégicos. Através da análise do comportamento e das características dos clientes, buscamos otimizar as estratégias e aprimorar os produtos e serviços bancários.
 
+🔗 **[Clique aqui para acessar o projeto completo no Kaggle](https://www.kaggle.com/code/calebedeoliveira/analise-de-credito-eda)**
+
 ---
 
 ## 📌 Sobre o Projeto
@@ -62,4 +64,3 @@ O conjunto de dados utilizado neste projeto contém informações de clientes de
 ---
 
 📌 **Observação:** Esta análise é fictícia e tem caráter educacional, visando demonstrar a aplicação de técnicas de análise exploratória de dados em um contexto bancário.
-
